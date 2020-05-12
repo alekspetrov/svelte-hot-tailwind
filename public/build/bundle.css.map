@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../../App.svelte"
+  ],
+  "sourcesContent": [
+    "<style>main {\n  max-width: 960px;\n  margin: auto;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9BcHAuc3ZlbHRlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBO0VBQ0UsZ0JBQWdCO0VBQ2hCLFlBQVk7QUFDZCIsImZpbGUiOiJzcmMvQXBwLnN2ZWx0ZSIsInNvdXJjZXNDb250ZW50IjpbIlxubWFpbiB7XG4gIG1heC13aWR0aDogOTYwcHg7XG4gIG1hcmdpbjogYXV0bztcbn1cbiJdfQ== */</style>\n\n<main>\n  <h1 class=\"text-red\">Hello world!</h1>\n</main>\n"
+  ],
+  "names": [],
+  "mappings": "AAAO,IAAI,cAAC,CAAC,AACX,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,IAAI,AACd,CAAC"
+}
