@@ -33,7 +33,7 @@ To create a new project based on this template using
 [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit rixo/svelte-template-hot svelte-app
+npx degit alekspetrov/svelte-hot-tailwind
 cd svelte-app
 npm install
 ```
